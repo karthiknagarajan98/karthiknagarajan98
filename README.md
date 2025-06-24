@@ -8,11 +8,8 @@
 ## 📌 About Me
 
 <p align="justify">
-Passionate Full Stack Java Developer with a Master’s degree in Software Engineering from <b>Heriot-Watt University, UK</b>. <br>
-I specialize in building scalable, efficient, and secure web applications using <b>Java, Spring, Hibernate, JDBC, Servlet, SQL</b>, and <b>DevOps</b>. <br>
-With a solid grip on front-end technologies like <b>HTML, CSS, JavaScript</b>, and <b>ReactJS</b>, I deliver delightful user experiences.<br>
-On the backend, I engineer performance-focused systems that ensure integrity and security.<br>
-Currently exploring <b>Cloud Computing</b>, <b>Automation</b>, and innovative <b>Full-Stack Architectures</b>.<br>
+Passionate Full Stack Java Developer skilled in <b>Java</b>, <b>Spring</b>, <b>Hibernate</b>, <b>SQL</b>, <b>DevOps</b>, and front-end tech like <b>ReactJS</b>, <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.<br><br>
+      Focused on building <b>secure</b>, <b>scalable</b> web apps while exploring <b>Cloud Computing</b>, <b>Automation</b>, and modern <b>Full-Stack Architectures</b>.
 </p>
 
 ---
