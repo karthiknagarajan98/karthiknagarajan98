@@ -25,11 +25,11 @@ Passionate Full Stack Java Developer skilled in <b>Java</b>, <b>Spring</b>, <b>H
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/320px-Flask_logo.svg.png" height="40" alt="Flask"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40" alt="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" height="40" alt="Jenkins"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Apache_HTTP_server_logo_(2016).svg/512px-Apache_HTTP_server_logo_(2016).svg.png" height="40" alt="Apache"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Apache_HTTP_server_logo_(2016).svg" height="40" alt="Apache"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform"/>
   <img src="https://img.icons8.com/ios-filled/50/sql.png" height="40" alt="SQL"/>
@@ -39,11 +39,11 @@ Passionate Full Stack Java Developer skilled in <b>Java</b>, <b>Spring</b>, <b>H
   <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" height="40" alt="Grafana"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg" height="40" alt="Prometheus"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/4/4e/SonarQube_logo.png" height="40" alt="SonarQube"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/2048px-Apache_kafka-icon.svg.png" height="40" alt="Kafka"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" height="40" alt="Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="NGINX"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="Tomcat"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="40" alt="JSON"/>
   <img src="https://aquasecurity.github.io/trivy/images/trivy-logo.png" height="40" alt="Trivy"/>
   <img src="https://raw.githubusercontent.com/Azure/azure-functions-logo/master/azure-functions-light.png" height="40" alt="Azure Functions"/>
@@ -54,6 +54,7 @@ Passionate Full Stack Java Developer skilled in <b>Java</b>, <b>Spring</b>, <b>H
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="40" alt="Helm"/>
   <img src="https://argo-cd.readthedocs.io/en/stable/_images/argo-logo.png" height="40" alt="ArgoCD"/>
   <img src="https://raw.githubusercontent.com/OWASP/owasp-mstg/main/Images/OWASP.png" height="40" alt="OWASP"/>
+</p>
   
 </p>
 
