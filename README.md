@@ -72,7 +72,7 @@ Passionate Full Stack Java Developer skilled in <b>Java</b>, <b>Spring</b>, <b>H
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karthik0908">
+  <a href="https://www.linkedin.com/in/karthik0904">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
   </a>
   <a href="mailto:karthiknagarajan98@gmail.com">
