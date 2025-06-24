@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Karthik Nagarajan</h1>
+<h1 align="center">🚀 I'm, Karthik Nagarajan</h1>
 <p align="center">
   <i>Full Stack Java Developer | DevOps Engineer</i>
 </p>
