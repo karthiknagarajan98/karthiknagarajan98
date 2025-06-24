@@ -1,47 +1,55 @@
-<h1 align="center">🚀 Hey there, I'm Karthik Nagarajan!</h1>
+# 👋 Hi, I'm Karthik Nagarajan
 
-<p align="center">
-  <em>A passionate <strong>Full Stack Java Developer</strong> and <strong>DevOps Practitioner</strong> <br>
-  with a love for clean code, automation, and scalable systems.</em>
-</p>
+## ✨ About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthiknagarajan98&style=flat-square&color=brightgreen" alt=""/>
-</p>
+I am a **Full Stack Java Developer** with a Master’s degree in Software Engineering from **Heriot-Watt University, UK**.
 
----
+I specialize in building scalable, efficient, and secure web applications, leveraging my expertise in **Java, Spring, Hibernate, JDBC, Servlet, SQL, and DevOps**.
 
-### 🧠 About Me
+With a strong foundation in front-end technologies like **HTML, CSS, JavaScript, and ReactJS**, I create seamless, user-friendly interfaces that enhance the digital experience.
 
-🎓 Master’s in Software Engineering from **Heriot-Watt University, UK**  
-💻 Currently building full-stack web apps & automating infrastructure with DevOps tools  
-🛠️ Tech stack includes **Java, Spring Boot, ReactJS, Docker, Jenkins, Kubernetes**  
-🌐 Passionate about system design, cloud computing & CI/CD pipelines
+On the back end, I design robust, high-performance systems that ensure efficiency and security.
+
+Driven by a continuous learning mindset, I am particularly interested in **cloud computing**, **automation**, and **full-stack development**.
+
+💡 My goal is to contribute to innovative projects, collaborate with forward-thinking teams, and stay at the forefront of technology.
 
 ---
 
-### 🧰 Tools & Technologies
+## 🛠️ Skills and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="40" alt="Hibernate"/>
+  
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
 </p>
 
 ---
 
-### 📬 Connect with Me
+## 🔗 Connect with Me
 
-<p align="left">
-  <a href="mailto:karthiknagarajan98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/karthik0908"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/karthiknagarajan98"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karthik0908)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:karthiknagarajan98@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/karthiknagarajan98)
