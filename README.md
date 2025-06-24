@@ -18,104 +18,108 @@ Passionate Full Stack Java Developer skilled in <b>Java</b>, <b>Spring</b>, <b>H
 <p align="center">
   <p align="center">
 
-  <!-- AWS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+  <p align="center">
 
-  <!-- Linux -->
+  <!-- AWS – official SVG -->
+  <img src="https://raw.githubusercontent.com/aws/aws-icons-for-plantuml/main/dist/AWS-logo.svg" height="40" alt="AWS"/>
+
+  <!-- Linux – Tux PNG -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="40" alt="Linux"/>
 
-  <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>
+  <!-- Java – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
 
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
+  <!-- Python – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
 
-  <!-- Flask -->
+  <!-- Flask – Wikipedia SVG -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40" alt="Flask"/>
 
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <!-- Docker – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
 
-  <!-- Kubernetes -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
+  <!-- Kubernetes – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
 
-  <!-- Jenkins -->
+  <!-- Jenkins – Official logo -->
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" height="40" alt="Jenkins"/>
 
-  <!-- Apache -->
+  <!-- Apache HTTP Server – Wikimedia -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Apache_HTTP_server_logo_(2016).svg" height="40" alt="Apache"/>
 
-  <!-- Ansible -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" height="40" alt="Ansible"/>
+  <!-- Ansible – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible"/>
 
-  <!-- Terraform -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="Terraform"/>
+  <!-- Terraform – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform"/>
 
-  <!-- SQL -->
+  <!-- SQL – Icons8 -->
   <img src="https://img.icons8.com/ios-filled/50/sql.png" height="40" alt="SQL"/>
 
-  <!-- Shell -->
+  <!-- Shell – Wikimedia -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" height="40" alt="Shell"/>
 
-  <!-- Azure -->
+  <!-- Azure – Wikimedia -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="40" alt="Azure"/>
 
-  <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <!-- GitHub – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 
-  <!-- Grafana -->
-  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" height="40" alt="Grafana"/>
+  <!-- Grafana – Official repo -->
+  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/fav32.png" height="40" alt="Grafana"/>
 
-  <!-- Prometheus -->
+  <!-- Prometheus – Wikimedia -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" height="40" alt="Prometheus"/>
 
-  <!-- SonarQube -->
+  <!-- SonarQube – Wikimedia -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/SonarQube_Logo.png" height="40" alt="SonarQube"/>
 
-  <!-- Kafka -->
+  <!-- Kafka – Wikimedia -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" height="40" alt="Kafka"/>
 
-  <!-- NGINX -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="40" alt="NGINX"/>
+  <!-- NGINX – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="NGINX"/>
 
-  <!-- Tomcat -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" height="40" alt="Tomcat"/>
+  <!-- Tomcat – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="Tomcat"/>
 
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React"/>
+  <!-- React – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
 
-  <!-- HTML5 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <!-- HTML5 – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
 
-  <!-- JSON -->
+  <!-- JSON – Wikimedia -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="40" alt="JSON"/>
 
-  <!-- Trivy -->
+  <!-- Trivy – official logo -->
   <img src="https://aquasecurity.github.io/trivy/images/trivy-logo.png" height="40" alt="Trivy"/>
 
-  <!-- Azure Function -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Azure_Functions_logo.svg" height="40" alt="Azure Function"/>
+  <!-- Azure Functions – Wikimedia -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Azure_Functions_logo.svg" height="40" alt="Azure Functions"/>
 
-  <!-- Postman -->
+  <!-- Postman – Vector logo -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
 
-  <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <!-- MySQL – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 
-  <!-- REST API -->
+  <!-- REST API – Icons8 -->
   <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-api-digital-marketing-flatart-icons-outline-flatarticons.png" height="40" alt="REST API"/>
 
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>
+  <!-- Git – Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 
-  <!-- Helm -->
+  <!-- Helm – Wikimedia -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Helm_Logo.svg" height="40" alt="Helm"/>
 
-  <!-- Argo -->
-  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="40" alt="ArgoCD"/>
+  <!-- Argo CD – Official -->
+  <img src="https://argo-cd.readthedocs.io/en/stable/_images/argo-logo.png" height="40" alt="Argo CD"/>
 
-  <!-- OWASP -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/OWASP_logo.svg" height="40" alt="OWASP"/>
+  <!-- OWASP – Simple Icons CDN -->
+  <img src="https://logo.svgcdn.com/l/owasp-dark.svg" height="40" alt="OWASP"/>
+
+</p>
 
 </p>
 
