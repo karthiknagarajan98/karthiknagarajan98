@@ -55,7 +55,7 @@ Passionate Full Stack Java Developer skilled in <b>Java</b>, <b>Spring</b>, <b>H
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8RUoMU1asZD8HLBVCNymBUahSvkSQjV9hQ&s" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://devopstales.github.io/img/argocd.jpg" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://www.csoonline.com/wp-content/uploads/2024/08/560221-0-88236200-1724824922-owasp-100709974-orig.jpg?quality=50&strip=all" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
+
 </p>
   
 </p>
