@@ -73,7 +73,7 @@ Passionate Full Stack Java Developer skilled in <b>Java</b>, <b>Spring</b>, <b>H
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karthik0904">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
   </a>
   <a href="mailto:karthiknagarajan98@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" height="40" alt="Gmail" />
