@@ -8,8 +8,7 @@
 ## 📌 About Me
 
 <p align="justify">
-Passionate Full Stack Java Developer skilled in <b>Java</b>, <b>Spring</b>, <b>Hibernate</b>, <b>SQL</b>, <b>DevOps</b>, and front-end tech like <b>ReactJS</b>, <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.<br><br>
-      Focused on building <b>secure</b>, <b>scalable</b> web apps while exploring <b>Cloud Computing</b>, <b>Automation</b>, and modern <b>Full-Stack Architectures</b>.
+Passionate Full Stack Java Developer skilled in <b>Java</b>, <b>Spring</b>, <b>Hibernate</b>, <b>SQL</b>, <b>DevOps</b>, and front-end tech like <b>ReactJS</b>, <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>. Focused on building <b>secure</b>, <b>scalable</b> web apps while exploring <b>Cloud Computing</b>, <b>Automation</b>, and modern <b>Full-Stack Architectures</b>.
 </p>
 
 ---
